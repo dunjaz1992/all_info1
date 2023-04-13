@@ -17,9 +17,9 @@
 
 # 5: git push <origin> <main> - команда отправки всех ваших изменений на удаенный репо
 
-#----------------
-1)git Init 
-        2git add 
-        git commit -m''
-git remote add origin <url>
-        git push origin main
+# #----------------
+# 1)git Init 
+#       2)git add 
+#       3)git commit -m''
+# 4)git remote add origin <url>
+#         5)git push origin main

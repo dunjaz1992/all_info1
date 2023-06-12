@@ -69,7 +69,7 @@
 # name2 = input('name2: ')
 # print('hello, {}, {}'.format(name, name2))
 
-# # 3 интерполяция 
+# 3 интерполяция 
 # name = input('name: ')
 # name2 = input('name2: ')
 # print(f'hello {name}, {name2}')
@@ -121,7 +121,7 @@
 
 
 #  разделитель .join(iterable) -> соединяет в строку по разделителю
-# # print('-->'.join(list_))
+# print('-->'.join(list_))
 
 # .startswith(string) -> проверяет начинается ли наша строка с string
 # a = 'hello world'
@@ -129,8 +129,8 @@
 # .endswith(string) -> проверяет заканчивается ли строка на string
 # print(a.endswith(World))
 # .count(string) -> считает количество вхождении string в строке
-# a = kkjjff
-#ptint(a.count('kk'))
+# a = 'kkjjff'
+# print(a.count('k'))
 
 
 '''======== Индекс ========'''
@@ -158,7 +158,6 @@
 
 # a = 'hello world'
 # print(a[2:-1])
-
 
 
 

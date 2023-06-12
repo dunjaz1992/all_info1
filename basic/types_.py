@@ -1,6 +1,6 @@
 # """Типы данных"""
 
-# # preint("hello")
+# # print("hello")
 
 
 # #1. NoneType -> ничего, пустота

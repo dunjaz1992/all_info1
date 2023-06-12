@@ -1,3 +1,5 @@
+'''ФАЙЛЫ'''
+
 # работа с файлами
 # каретка - указатель - курсор
 # open (<путь до файла>)
@@ -19,6 +21,10 @@
 # data = data.split('\n')
 # print(data)
 # file.close()
+
+'''режимы файла'''
+# readline список
+# readlines лист
 
 # контекстный менеджер 
 # with open('test.txt') as file: # file = open('test.txt)
@@ -80,3 +86,5 @@
 
 # Image = 'imei.jpg'
 # get_imei_code(Image)
+
+
